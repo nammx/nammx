@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, Tôi là Mai Xuân Nam</h1>
 <h3 align="center">Một người yêu thích công nghệ</h3>
 
-- 🔭 I’m currently working at [VietMX](https://www.maixuannam.com).
+- 🔭 I’m currently working at [NamMX](https://www.maixuannam.com).
 - 🌱 Never stop learning because life never stops teaching.
 - 💬 Ask me about **Java, Python, Angular, ReactJS, Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/mxviet" target="blank">
+  <a href="https://twitter.com/mxnam" target="blank">
     <img
       align="center"
       src="asset/twitter.png"
@@ -34,7 +34,7 @@
       width="40"
     />
   </a>
-  <a href="https://instagram.com/maixuanviet.vn" target="blank">
+  <a href="https://instagram.com/maixuannam.vn" target="blank">
     <img
       align="center"
       src="asset/instagram.png"
