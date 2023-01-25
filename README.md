@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vinson Mai</h1>
-<h3 align="center">Chief Technology Officer at CT GROUP</h3>
+<h1 align="center">Hi 👋, Tôi là Mai Xuân Nam</h1>
+<h3 align="center">Một người yêu thích công nghệ</h3>
 
 - 🔭 I’m currently working at [VietMX](https://www.maixuanviet.com).
 - 🌱 Never stop learning because life never stops teaching.
